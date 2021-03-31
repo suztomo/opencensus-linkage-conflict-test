@@ -29,7 +29,7 @@
     <!-- Dependency versions -->
     <versions.errorprone>2.3.3</versions.errorprone>
     <versions.gracefulshutdown>2.0</versions.gracefulshutdown>
-    <versions.guava>27.1-jre</versions.guava>
+    <versions.guava>29.0-jre</versions.guava>
     <versions.jacoco>0.8.2</versions.jacoco>
     <versions.jib>1.0.2</versions.jib>
     <versions.lombok>1.18.8</versions.lombok>
